@@ -1,0 +1,26 @@
+{
+    "general": {
+        "site_name": "Мой сайт1",
+        "site_description": "Мой новый сайт",
+        "posts_per_page": 10
+    },
+    "seo": {
+        "default_title": "Мой Новый сайт  (title)",
+        "default_description": "Простой и быстрый блог на PHP (description)"
+    },
+    "security": {
+        "admin_email": "admin@example.com",
+        "max_login_attempts": 5,
+        "lockout_time_minutes": 1
+    },
+    "homepage": {
+        "home_banner_title": "Добро пожаловать на наш сайт",
+        "home_banner_subtitle": "Лучшие решения для вашего бизнеса",
+        "home_banner_image": "",
+        "home_show_banner": true,
+        "featured_text": "Мы предлагаем лучшие услуги на рынке",
+        "show_featured": true,
+        "header_template": "full",
+        "footer_template": "full"
+    }
+}
